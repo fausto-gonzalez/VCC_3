@@ -119,5 +119,5 @@ See the [wiki credits](https://github.com/fausto-gonzalez/VCC_3/wiki/04-Contribu
 
 [Wiki Home](https://github.com/fausto-gonzalez/VCC_3/wiki) · [Project Repository](https://github.com/fausto-gonzalez/VCC_3) · [Report an Issue](https://github.com/fausto-gonzalez/VCC_3/issues)
 
-Created by **Fausto Gonzalez** · Assignment 3 · 2026  
+Created by **Fausto Gonzalez** · Assignment 3 · &copy; 2026  
 *Fictitious restaurant project developed for educational purposes.*
